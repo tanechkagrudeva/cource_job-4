@@ -1,4 +1,4 @@
-from obstact_class import VacanciesSearch
+from abstact_class import VacanciesSearch
 
 import requests
 
